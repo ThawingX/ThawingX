@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Huawei**
 
-- 👯 I’m looking to collaborate on **AI application and automated shot vedio(tiktok etc.) operations pipeline**
+- 👯 I’m looking to collaborate on **AI application, professional music tool and automated shot vedio(tiktok etc.) operations pipeline**
 
 - 📫 How to reach me **thawingx@gmail.com**
 
